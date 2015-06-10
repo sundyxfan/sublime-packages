@@ -1,1 +1,7 @@
-# sublime-packages
+sublime-packages
+==================
+
+* csscomb
+* DocBlockr
+* Emmet
+* JsFormat
