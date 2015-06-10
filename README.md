@@ -5,3 +5,5 @@ sublime-packages
 * DocBlockr
 * Emmet
 * JsFormat
+
+more packages control (https://packagecontrol.io/ "packages control")
