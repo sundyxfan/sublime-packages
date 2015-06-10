@@ -6,4 +6,4 @@ sublime-packages
 * Emmet
 * JsFormat
 
-more packages control (https://packagecontrol.io/ "packages control")
+more packages control  https://packagecontrol.io/ 
