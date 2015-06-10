@@ -1,6 +1,6 @@
 sublime-packages
 ==================
-
+* Markdown Preview
 * csscomb
 * DocBlockr
 * Emmet
